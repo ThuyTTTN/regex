@@ -1,7 +1,7 @@
 # Regex
 
 ## Summary
-Regex, also known as regular expressions, are patterns used to match character combinations in strings.  It is useful in extracting information from any text.
+Regex, also known as regular expressions, are patterns used to match character combinations in strings.  It is useful in extracting information from any text when it is included in a code or search algorithms.
 
 ## Table of Contents
 
